@@ -1,8 +1,6 @@
 # Google Cloud integrations
 
-Provides SaaS-components related to integrations: data streaming, ETL, etc.
-
-TODO: implement
+Provides SaaS-components related to integrations (events, data streaming, ETL, ...). TODO: implement.
 
 Example usage:
 
@@ -38,6 +36,7 @@ Combine with the following modules to get a complete infrastructure defined by Y
 - [Admin](https://registry.terraform.io/modules/TaitoUnited/admin/google)
 - [DNS](https://registry.terraform.io/modules/TaitoUnited/dns/google)
 - [Network](https://registry.terraform.io/modules/TaitoUnited/network/google)
+- [Compute](https://registry.terraform.io/modules/TaitoUnited/compute/google)
 - [Kubernetes](https://registry.terraform.io/modules/TaitoUnited/kubernetes/google)
 - [Databases](https://registry.terraform.io/modules/TaitoUnited/databases/google)
 - [Storage](https://registry.terraform.io/modules/TaitoUnited/storage/google)
